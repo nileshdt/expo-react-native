@@ -5,7 +5,7 @@ Choose the right branch in this repository to get the code for the different par
 
 Git Clone
 ```sh
-git clone 
+git clone https://github.com/nileshdt/expo-react-native.git
 ```
 Install all dependencies
 ```sh

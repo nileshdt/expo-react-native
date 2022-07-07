@@ -9,6 +9,7 @@ git clone https://github.com/nileshdt/expo-react-native.git
 ```
 Install all dependencies
 ```sh
+cd expo-react-native
 yarn install
 ```
 
